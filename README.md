@@ -14,6 +14,8 @@ import numpy as np
 > you have to install ( opencv-python , pip , numpy )
 > my python version was 3.8
 
+NOTE! : you have to turn your .ppx to image and put uour images to the presentation ditrectore in order
+
 # Test Video
 gesture is :
 > thumb finger to back (previous slide)
